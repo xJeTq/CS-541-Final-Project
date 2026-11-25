@@ -1,0 +1,4 @@
+year,n,matched,low,high,additional_lot,known_key,year_built_missing,acres_missing,net_value_missing,reported_differs
+2023,1495,1156,100000,4350000,71,1495,567,647,339,0
+2024,3519,2796,50000,4000000,132,3519,1277,1489,723,3
+2025,3558,2794,25000,4600000,112,3558,1337,1460,764,0

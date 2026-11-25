@@ -1,0 +1,8 @@
+,value
+train_n,4642.0
+test_n,3558.0
+train_deed_rows_excluded_by_recorded_cutoff,372.0
+lower_training_quartile,450000.0
+upper_training_quartile,880000.0
+test_distinct_known_parcels,3520.0
+test_distinct_seen_parcels,118.0

@@ -1,0 +1,4 @@
+model,setting,mae
+Random forest,5,171014.77250141453
+Ridge,10,207939.0335928196
+Median,0,297445.39874023246
